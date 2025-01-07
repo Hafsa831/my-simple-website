@@ -4,5 +4,6 @@ div{
     margin-bottom: 20px;
 }
 img{
-    width: 100px;
+    width: 200px;
+    border: solid coral;
 }
